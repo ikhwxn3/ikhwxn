@@ -1,5 +1,4 @@
-# test repo
-# Muhammad Ikhwan bin Mohd Nazuki
+# MUHAMMAD IKHWAN BIN MOHD NAZUKI
 **Username:** @ikhwxn3  
 **Email:** nazikhwan4@gmail.com  
 **Location:** Malaysia
