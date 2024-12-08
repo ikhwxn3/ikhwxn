@@ -15,8 +15,8 @@ Hello! I'm Muhammad Ikhwan, a passionate Computer Science student currently purs
 - **Version Control:** Git, GitHub
 
 ## Education:
-Currently studying **Computer Science** at [Your Institution Name]  
-**Expected Graduation:** [Year]
+Currently studying **Computer Science** at Univercity College TATI  
+**Expected Graduation:** 2026
 
 ## Looking for:
 - Internships in software development and data science
